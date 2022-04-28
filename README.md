@@ -1,2 +1,0 @@
-# _Sentimental_Analysis_Minorproject
-csv
